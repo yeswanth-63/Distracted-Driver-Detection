@@ -29,19 +29,19 @@ This project aims to detect and classify distracted driving behavior using compu
 
 
 # Sample Results
-c0: safe driving
-c1: texting - right
-c2: talking on the phone - right
-c3: texting - left
-c4: talking on the phone - left
-c5: operating the radio
-c6: drinking
-c7: reaching behind
-c8: hair and makeup
+c0: safe driving,
+c1: texting - right,
+c2: talking on the phone - right,
+c3: texting - left,
+c4: talking on the phone - left,
+c5: operating the radio,
+c6: drinking,
+c7: reaching behind,
+c8: hair and makeup,
 c9: talking to passenger
 ## for c0:- safe driving
 
-![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/dstrct_drvr.png)
+![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/safe_driving.png)
 ## for c3:- texting - left
 
 ![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/dstrct_drvr.png)
