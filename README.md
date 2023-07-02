@@ -19,12 +19,10 @@ This project aims to detect and classify distracted driving behavior using compu
 <br>
 
 ## Features
-
-- Input a Twitter handle or hashtag to retrieve recent tweets.
-- Perform sentiment analysis on the retrieved tweets.
-- Visualize the sentiment distribution using pie charts or bar plots.
-- Display the most frequently used words in positive and negative tweets.
-- Explore the sentiment analysis results and gain insights.
+- Detects various types of distracted driving behaviors, such as texting, talking on the phone, eating, drinking, grooming, and more.
+- Utilizes computer vision algorithms to analyze uploaded images and extract relevant features for classification.
+- Applies machine learning models to classify the detected behaviors into predefined categories.
+- Provides an intuitive interface for users to upload and analyze images.
 
 <br>
 
