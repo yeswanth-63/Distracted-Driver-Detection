@@ -53,7 +53,7 @@ c9: talking to passenger
 ![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/dstrct_drvr.png)
 ## for c6:- drinking
 
-![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/dstrct_drvr.png)
+![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/drinking.png)
 
 
 ## Thank You!
