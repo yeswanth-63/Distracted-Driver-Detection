@@ -44,10 +44,10 @@ c9: talking to passenger
 ![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/safe_driving.png)
 ## for c3:- texting - left
 
-![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/dstrct_drvr.png)
+![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/txtng%20left.png)
 ## for c4:- talking on the phone - left
 
-![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/dstrct_drvr.png)
+![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/talking_phn_left.png)
 ## for c5:- operating radio
 
 ![Description 1](https://github.com/yeswanth-63/Distracted-Driver-Detection/blob/main/dstrct_drvr.png)
